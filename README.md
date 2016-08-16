@@ -9,10 +9,15 @@ The help command should give you a paragraph of what the application does and ho
 The bac (Blood Alcohol Content) command should do the following:
 
  [] Ask your name
+
  [] Ask your gender
+
  [] Ask how many beers you had
+
  [] Ask how many hours has it been since your last beer
+
  [] It should give you your alcohol content
+
  [] Tell you if your able to drive or not
 
 Hints:
