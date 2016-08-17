@@ -4,9 +4,18 @@
   "description": "",
   "main": "commandline-app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "clear": "0.0.1",
+    "colors": "^1.1.2",
+    "prompt-sync": "^4.1.4"
+  }
 }
